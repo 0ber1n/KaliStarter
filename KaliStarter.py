@@ -32,9 +32,18 @@ def run_the_works():
     install_dirsearch()
     install_terminator()
     clean_up()
-    print("All packages installed. Happy hunting!")
+    print("All packages cleaned up. Happy hunting!")
     time.sleep(0.5)
 
+print("""\
+ _  __     _ _ ____  _             _            
+| |/ /__ _| (_) ___|| |_ __ _ _ __| |_ ___ _ __ 
+| ' // _` | | \___ \| __/ _` | '__| __/ _ \ '__|
+| . \ (_| | | |___) | || (_| | |  | ||  __/ |   
+|_|\_\__,_|_|_|____/ \__\__,_|_|   \__\___|_|   
+
+
+""")
 print("Welcome to the installer, We're about to install some good stuff for you")
 
 while True:
