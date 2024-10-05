@@ -5,3 +5,6 @@ Current Tools in the package:
 -Threader300
 -DirSearch
 -Terminator
+
+
+Future goal of this script will be for USB live boot instances of kali.
